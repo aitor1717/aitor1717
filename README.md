@@ -3,7 +3,8 @@
 ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯
 
 Python, analytics, automation, applied ML. Building since ~2012, mostly
-self-directed. Architecture background, so systems thinking carries over, hopefully.
+self-directed.
+Architecture background, so systems thinking carries over, hopefully.
 
 ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯  ◯
 
